@@ -18,32 +18,32 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/BookDetail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va0RldGFpbC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/Books.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/Calendar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FsZW5kYXIuY3NodG1s
+[/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/Components/Calendar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcG9uZW50cy9DYWxlbmRhci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/UserProfile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVXNlclByb2ZpbGUuY3NodG1s
+[/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/Views/BookDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmlld3MvQm9va0RldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/Views/Books.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmlld3MvQm9va3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmlld3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/Views/UserProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVmlld3MvVXNlclByb2ZpbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/tombihoreau/Desktop/MDS/cours/architecture_logicielle/MyLibraryApp/Pages/_ViewImports.cshtml]
