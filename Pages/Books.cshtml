@@ -1,0 +1,15 @@
+@page
+@model MyLibraryApp.Pages.BooksModel
+
+@{
+    var books = Model.Books;
+}
+
+@foreach (var book in books)
+{
+    <div>
+        <h3>@book..Title</h3>
+        <p>@string.Join(", ", book.VolumeInfo.Authors)</p>
+        <img src="@book.VolumeInfo.Thumbnail" alt="Book Thumbnail" />
+    </div>
+}
